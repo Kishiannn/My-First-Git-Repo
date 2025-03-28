@@ -11,3 +11,4 @@ Im currently learning
 	-Git
 	-Python
 	-Java game
+	-MySQL and NoSQL
