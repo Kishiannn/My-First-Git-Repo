@@ -12,3 +12,5 @@ Im currently learning
 	-Python
 	-Java game
 	-MySQL and NoSQL
+
+This is my first git repo i trying to learn git right now
